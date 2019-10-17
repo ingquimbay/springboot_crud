@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: carlitos
+Build-Jdk: 11.0.4
+Implementation-Title: crud_employee
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.developer
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/crud_employee
+Created-By: Maven Integration for Eclipse
+
